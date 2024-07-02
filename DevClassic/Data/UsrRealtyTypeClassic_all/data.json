@@ -1,0 +1,84 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "100e927e-9915-4db5-b8d7-65ea4afbb1ed"
+        },
+        {
+          "SchemaColumnUId": "7986c08d-8263-821e-0a2c-4c3305fd00e3",
+          "Value": "CODE #2"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": "hieuemmm / GuideDevJune2024"
+        },
+        {
+          "SchemaColumnUId": "c9dacd03-c842-0777-8a89-db6f69ffc726",
+          "Value": 11230.00
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "15de6ca1-831d-421f-9a6f-df969ae12a65"
+        },
+        {
+          "SchemaColumnUId": "7986c08d-8263-821e-0a2c-4c3305fd00e3",
+          "Value": "CODE #1"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": "hieuemmm / GuideDevJune2024"
+        },
+        {
+          "SchemaColumnUId": "c9dacd03-c842-0777-8a89-db6f69ffc726",
+          "Value": 3213210.00
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "42eff651-0e3f-4608-a5de-daceb0967839"
+        },
+        {
+          "SchemaColumnUId": "7986c08d-8263-821e-0a2c-4c3305fd00e3",
+          "Value": "CODE #3"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": "hieuemmm / GuideDevJune2024"
+        },
+        {
+          "SchemaColumnUId": "c9dacd03-c842-0777-8a89-db6f69ffc726",
+          "Value": 1231230.00
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "45db667f-0170-4ba7-9670-7b68017ec9af"
+        },
+        {
+          "SchemaColumnUId": "7986c08d-8263-821e-0a2c-4c3305fd00e3",
+          "Value": "CODE #4"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": "hieuemmm / GuideDevJune2024"
+        },
+        {
+          "SchemaColumnUId": "c9dacd03-c842-0777-8a89-db6f69ffc726",
+          "Value": 0.00
+        }
+      ]
+    }
+  ]
+}
